@@ -23,9 +23,7 @@ CSS Flexbox is a set of properties that makes it easy to design flexible layouts
 
 Full landing page image that will be cloned during the course.
 
-<center>
-<img src="https://github.com/karinaglf/course-css-flexbox-starter-code/blob/master/img/img-solution-full-page.png?raw=true" width="400">
-</center>
+<img src="https://github.com/karinaglf/course-css-flexbox-starter-code/blob/master/img/img-solution-full-page.png?raw=true" width="500">
 
 ### Workshop Recording
 - [Workshop Link](https://event.eu.on24.com/wcc/r/8000014666/F9E177F93B1502DC410CC543D62ED531)
