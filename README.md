@@ -19,11 +19,13 @@ CSS Flexbox is a set of properties that makes it easy to design flexible layouts
 - UX/UI Designers looking to improve their knowledge in CSS and better communicate with developers
 - Any developer interested in getting a deep understanding of Flexbox
 
-### What you will code? 
+### Hands-on session - What you will code? 
 
-We will code together this landing page.
+Full landing page image that will be cloned during the course.
 
-![Demo Image](img/img-solution-full-page.png | width=300px)
+<center>
+<img src="https://github.com/karinaglf/course-css-flexbox-starter-code/blob/master/img/img-solution-full-page.png?raw=true" width="400">
+</center>
 
-
-
+### Workshop Recording
+- [Workshop Link](https://event.eu.on24.com/wcc/r/8000014666/F9E177F93B1502DC410CC543D62ED531)
