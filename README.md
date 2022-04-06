@@ -22,6 +22,8 @@ CSS Flexbox is a set of properties that makes it easy to design flexible layouts
 ### Hands-on session - What you will code? 
 
 Full landing page image that will be cloned during the course.
+- [Figma Model Link](https://www.figma.com/file/H3jzkc7m5DWG3hj6UroGsw/HomePage-puppy-care?node-id=0%3A1)
+
 
 <img src="https://github.com/karinaglf/course-css-flexbox-starter-code/blob/master/img/img-solution-full-page.png?raw=true" width="500">
 
